@@ -1,3 +1,7 @@
+# GH Pages
+
+[Click here](https://sergeydedikov.github.io/test-react-deploy/index.html).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
